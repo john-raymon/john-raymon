@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on awesome commerce things with the team at Commercejs.com.
+- 🔭 working on awesome commerce things with the team at Commercejs.com.
 - 🌱 learning bits of CS, reading nand to tetris and building fullstack web projects.
 - 👯 looking to collaborate on https://www.npmjs.com/package/commerce-components, an open-sourced Vue.js Commerce.js enchanced form component, mean't to promote rapid headless checkout development, meaning to add a default UI mode using Tailwindcss, hence this 🐦 https://twitter.com/OnlyJohnRay/status/1278938980252372993  ...
 - 📫 @ me or DM on Twitter https://twitter.com/OnlyJohnRay ...
