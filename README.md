@@ -1,4 +1,4 @@
-### Hi there, I'm a 22 year old self-taught front-developer, UI designer, and aspiring serial-entrepreneur at Commercejs.com. 👋🏽
+### Hi there, I'm a 22 year old self-taught developer, UI designer, & aspiring serial-entrepreneur at Commercejs.com. 👋🏽
 
 
 
